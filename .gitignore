@@ -1,0 +1,8 @@
+/Bot/config.json
+**/config.json
+__pycache__/
+*.pyc
+*.csv
+*.json
+.venv/
+venv/
